@@ -1,57 +1,50 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Atharva Patil",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://ap-13.github.io/images/github_website.jpeg",
+    "email": "atharva.patil.astro@gmail.com",
+    "phone": "",
+    "website": "https://ap-13.github.io",
+    "summary": "I am a PhD candidate in astrophysics in Taiwan",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ap-13",
+        "url": "http://github.com/ap-13"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Atharva Patil",
+        "url": "http://linkedin.com/in/atharva-astro"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Atharva Patil",
+        "url": "http://twitter.com/atharvasp"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Astronomy",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Robotic telescopes",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Big data",
       "keywords": [
       ]
     }
